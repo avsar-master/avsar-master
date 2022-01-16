@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hii there 👋👋
 
 <!--
-**avsar-master/avsar-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on goldsource whatsapp 2 gold.
+- 🌱 I’m currently learning nothing.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with nothing.
+- 💬 Ask me about nothing.
+- 📫 How to reach me: you can't reach.
+- 😄 Pronouns: nullptr
+- ⚡ Fun fact: hydrogen is a colorless gas.
 -->
+
+
+
+https://user-images.githubusercontent.com/61117050/149667886-07c728ea-aa2a-44c4-bf38-867c6e033479.mp4
+
