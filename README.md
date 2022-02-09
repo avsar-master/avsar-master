@@ -8,7 +8,3 @@
 - 📫 How to reach me: you can't reach.
 - 😄 Pronouns: nullptr
 - ⚡ Fun fact: hydrogen is a colorless gas.
- 
-
-https://user-images.githubusercontent.com/61117050/149667923-935d21d8-bf4b-40dd-864b-d82af86eaffd.mp4
-
